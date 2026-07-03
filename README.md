@@ -44,7 +44,7 @@ Data associated with this manuscript is provided as supplementary files. This in
 
 ## Contact
 
-For questions about the code above or analysis, please open an issue in this repository or email byw2@princeton.edu.
+For questions about the code or analysis, please open an issue in this repository or email byw2@princeton.edu.
 
 
     
