@@ -47,7 +47,7 @@ Scripts used for analysis are located in the `scripts` directory:
 
 - `scripts/reference_pwms.ipynb`: notebook used for creating reference PWMs for motifs for visualization purposes. Motifs were either created manually to match a published sequence logo (this was for motifs without publicly available PWM representation) or directly obtained from zf.princeton.edu.
 - `scripts/get_attributions.py`: script for obtaining attributions from select set of boundaries using trained model. Parameters are specified in a YAML file (see `nc14_config.yaml` for an example).
-- `scripts/process_boundaries.py`: script flagging presence of boundaries are in regions with undefined values (visually appearing as stripes).
+- `scripts/process_boundaries.py`: script flagging whether boundaries are in regions with undefined values (visually appearing as stripes).
 - `scripts/run_motif_synergy.py`: script for obtaining motif synergy values.
 
 ## Data Availability
