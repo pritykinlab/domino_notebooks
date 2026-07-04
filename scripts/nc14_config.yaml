@@ -1,0 +1,6 @@
+target: "nc14"
+threads: 16
+stripe_offset: 800
+model_dir: "/scratch/gpfs/PRITYKIN/brendan/domino/output/06_12_2026_final_nc14_no_mig/DominoSingleOutput_10_16_2_1_200_32_False_False_42_0.001_plateau_5_1_512_5_256_5_4_64_gelu/"
+cooler_file: "/scratch/gpfs/PRITYKIN/brendan/microc_preprocessing/mcools/new_nc14_embryo_merged_all_11.mcool::/resolutions/200"
+bound_file: "boundaries_df.bound_score_gt_1.csv"
